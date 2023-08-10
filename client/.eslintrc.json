@@ -1,0 +1,9 @@
+{
+  "extends": "next/core-web-vitals"
+}
+
+// camel 표기법, upperCase
+// upper_case
+// 규칙성을 eslintrc.json에 적으면 틀린걸 다찾아줌
+// function을 arrow function으로 사용하려했는데 그냥 function 썼을 떄 잡을 수 있음.
+// 이걸알아야 프론트에서 변경사항있을때 확인
